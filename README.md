@@ -17,7 +17,7 @@ I spend the majority of my free time:
 - Blogging at [DataVolume.xyz](https://datavolume.xyz) and [PowerBI.tips](https://powerbi.tips/author/jamesdbartlett3)
 - Volunteering with [Tech Journey](https://techjourney.org) (a local nonprofit whose mission is "to inspire youth to increase their knowledge and interest in technology by providing engaging learning opportunities led by technology professionals")
 - Mentoring students and beginner data professionals on [CodeMentor.com](https://www.codementor.io/@jamesdbartlett3)
-- Hacktoberfest!
+- [Hacktoberfest](https://hacktoberfest.com)!
 [![An image of @jamesdbartlett3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jamesdbartlett3)](https://holopin.io/@jamesdbartlett3)
 
 <!--
