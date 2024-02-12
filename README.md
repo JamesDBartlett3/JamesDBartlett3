@@ -1,4 +1,4 @@
-Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://github.com/JamesDBartlett3), [Mastodon](https://techhub.social/@JamesDBartlett3), and [LinkedIn](https://linkedin.com/in/jamesdbartlett3)), and I'm a Senior Business Intelligence Analyst at [Des Moines University](https://www.dmu.edu/) in Iowa, USA.
+Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://github.com/JamesDBartlett3), [Mastodon](https://techhub.social/@JamesDBartlett3), [Bluesky](https://bsky.app/profile/jamesdbartlett3.bsky.social), and [LinkedIn](https://linkedin.com/in/jamesdbartlett3)), and I'm a Senior Business Intelligence Analyst at [Des Moines University](https://www.dmu.edu/) in Iowa, USA.
 
 I spend the majority of my free time:
 - Contributing to various open-source projects using and/or relating to:
