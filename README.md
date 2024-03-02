@@ -1,6 +1,6 @@
 Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://github.com/JamesDBartlett3), [Sessionize](https://sessionize.com/JamesDBartlett3), [Mastodon](https://techhub.social/@JamesDBartlett3), [Bluesky](https://bsky.app/profile/jamesdbartlett3.bsky.social), and [LinkedIn](https://linkedin.com/in/jamesdbartlett3)), my pronouns are He/Him/His, and I'm a Senior Business Intelligence Analyst at [Des Moines University](https://www.dmu.edu/) in Iowa, USA. 
 
-Professional qualifications:
+Professional credentials:
 - [Microsoft MVP (Most Valuable Professional)](https://mvp.microsoft.com/en-US/mvp/profile/94414f71-47ad-4c1e-8833-f5a6642299bb)
 - [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://www.credly.com/badges/3e5652e5-8809-44c7-8e74-9edc91bc873f)
 
