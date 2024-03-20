@@ -2,7 +2,7 @@ Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://githu
 
 Professional credentials:
 - [Microsoft MVP (Most Valuable Professional)](https://mvp.microsoft.com/en-US/mvp/profile/94414f71-47ad-4c1e-8833-f5a6642299bb)
-- [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://www.credly.com/badges/3e5652e5-8809-44c7-8e74-9edc91bc873f)
+- [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/JamesDBartlett3/5CA9E345DCCD8B6D?sharingId=2B6460C4626B46A0)
 
 I spend the majority of my free time:
 - Blogging at [DataVolume.xyz](https://datavolume.xyz) and [PowerBI.tips](https://powerbi.tips/author/jamesdbartlett3)
