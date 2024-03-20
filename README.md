@@ -1,13 +1,13 @@
 # Intro
 Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://github.com/JamesDBartlett3), [Sessionize](https://sessionize.com/JamesDBartlett3), [Mastodon](https://techhub.social/@JamesDBartlett3), [Bluesky](https://bsky.app/profile/jamesdbartlett3.bsky.social), and [LinkedIn](https://linkedin.com/in/jamesdbartlett3)), my pronouns are He/Him/His, and I'm a Senior Business Intelligence Analyst at [Des Moines University](https://www.dmu.edu/) in Iowa, USA. 
 
-# Professional credentials:  
+# Professional credentials
   
 - [![Microsoft MVP (Most Valuable Professional)](assets/MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png)](https://mvp.microsoft.com/en-US/mvp/profile/94414f71-47ad-4c1e-8833-f5a6642299bb)
 
 - [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/JamesDBartlett3/5CA9E345DCCD8B6D?sharingId=2B6460C4626B46A0)
 
-# When I'm not working, I'm usually:
+# When I'm not working, I'm usually...
 - Blogging at [DataVolume.xyz](https://datavolume.xyz) and [PowerBI.tips](https://powerbi.tips/author/jamesdbartlett3)
 - Co-organizing the [Iowa Power BI User Group on Meetup.com](https://meetup.com/IowaPowerBI)
 - Giving presentations at meetups, user groups, conferences, and livestreams
