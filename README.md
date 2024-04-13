@@ -1,13 +1,15 @@
+![Github trophies](https://github-profile-trophy.vercel.app/?username=JamesDBartlett3&margin-w=15&margin-h=15&theme=dracula&title=MultiLanguage,Issues,Repositories,Stars,Commits,Followers,PullRequest,Experience)
+
 # Intro
 Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://github.com/JamesDBartlett3), [Sessionize](https://sessionize.com/JamesDBartlett3), [Mastodon](https://techhub.social/@JamesDBartlett3), [Bluesky](https://bsky.app/profile/jamesdbartlett3.bsky.social), and [LinkedIn](https://linkedin.com/in/jamesdbartlett3)), my pronouns are He/Him/His, and I'm a Senior Business Intelligence Analyst at [Des Moines University](https://www.dmu.edu/) in Iowa, USA. 
 
-# Professional credentials
+## Professional credentials
   
 - [![Microsoft MVP (Most Valuable Professional)](assets/MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png)](https://mvp.microsoft.com/en-US/mvp/profile/94414f71-47ad-4c1e-8833-f5a6642299bb)
 
 - [Microsoft Certified Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/JamesDBartlett3/5CA9E345DCCD8B6D?sharingId=2B6460C4626B46A0)
 
-# When I'm not working, I'm usually...
+## When I'm not working, I'm usually...
 - Blogging at [DataVolume.xyz](https://datavolume.xyz) and [PowerBI.tips](https://powerbi.tips/author/jamesdbartlett3)
 - Co-organizing the [Iowa Power BI User Group on Meetup.com](https://meetup.com/IowaPowerBI)
 - Giving presentations at meetups, user groups, conferences, and livestreams
@@ -21,12 +23,11 @@ Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://githu
   - [Linux](https://kernel.org)
   - [Home Automation](https://wikipedia.org/wiki/Home_automation)
   - [IoT](https://wikipedia.org/wiki/Internet_of_things)
-  - [Raspberry Pi](https://raspberrypi.org)
+  - [Raspberry Pi](https://raspberrypi.org)  
 - Volunteering with [Tech Journey](https://techjourney.org) (a local nonprofit whose mission is "to inspire youth to increase their knowledge and interest in technology by providing engaging learning opportunities led by technology professionals")
 - Mentoring students and beginner data professionals on [CodeMentor.com](https://www.codementor.io/@jamesdbartlett3)
-- [Hacking on projects at Hacktoberfest](https://hacktoberfest.com)!
+- [Hacking on projects at Hacktoberfest](https://hacktoberfest.com)
 [![An image of @jamesdbartlett3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jamesdbartlett3)](https://holopin.io/@jamesdbartlett3)
-
 <!--
 **JamesDBartlett3/JamesDBartlett3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
