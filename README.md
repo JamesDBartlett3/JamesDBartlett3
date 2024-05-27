@@ -16,6 +16,7 @@ Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://githu
 - Giving presentations at meetups, user groups, conferences, and livestreams
 - Contributing to various open-source projects relating to:
   - [Power BI](https://powerbi.com)
+  - [Fabric](https://www.microsoft.com/microsoft-fabric)
   - [PowerShell](https://github.com/PowerShell/PowerShell)
   - [SQL Server](https://microsoft.com/sql-server)
   - [Power Apps](https://make.powerapps.com)
