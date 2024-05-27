@@ -15,7 +15,7 @@ _Opinions expressed are solely my own, and not the views of my employer, nor of 
 
 # When I'm not working, I'm usually...
 - Blogging at [DataVolume.xyz](https://datavolume.xyz) and [PowerBI.tips](https://powerbi.tips/author/jamesdbartlett3)
-- Co-organizing the [Iowa Power BI User Group on Meetup.com](https://meetup.com/IowaPowerBI)
+- Co-organizing the [Iowa Power BI User Group](https://meetup.com/IowaPowerBI) and the [Higher Education Power BI User Group](https://meetup.com/higher-education-power-bi-user-group/)
 - Giving presentations at meetups, user groups, conferences, and livestreams
 - Contributing to various open-source projects relating to:
   - [Power BI](https://powerbi.com)
