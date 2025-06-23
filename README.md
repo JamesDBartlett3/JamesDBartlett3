@@ -10,6 +10,7 @@ _Opinions expressed are solely my own, and not the views of my employer, nor of 
 [![Microsoft MVP (Most Valuable Professional)](assets/MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png)](https://mvp.microsoft.com/en-US/mvp/profile/94414f71-47ad-4c1e-8833-f5a6642299bb)
 
 ### Microsoft Certifications:
+- [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/JamesDBartlett3/774A1D626D81FD8)
 - [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/JamesDBartlett3/EB0E7F1DF2C5D9A3)
 - [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/JamesDBartlett3/5CA9E345DCCD8B6D)
 
