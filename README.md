@@ -32,7 +32,9 @@ _Opinions expressed are solely my own, and not the views of my employer, nor of 
 - Volunteering with [Tech Journey](https://techjourney.org) (a local nonprofit whose mission is "to inspire youth to increase their knowledge and interest in technology by providing engaging learning opportunities led by technology professionals")
 - Mentoring students and beginner data professionals on [CodeMentor.com](https://www.codementor.io/@jamesdbartlett3)
 - [Hacking on projects at Hacktoberfest](https://hacktoberfest.com)
+
 [![An image of @jamesdbartlett3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jamesdbartlett3)](https://holopin.io/@jamesdbartlett3)
+
 ![MicrosoftAISkillsFestGWRAttemptBadge full](https://github.com/user-attachments/assets/6285a545-84e4-4edf-9425-ee1b4cc5fce4)
 ![Microsoft-Learner-Badge-Guinness-World-Record-Holder](https://github.com/user-attachments/assets/2c205d6c-eba1-4462-b5d2-03a7438db446)  
 
