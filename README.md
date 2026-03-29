@@ -1,4 +1,4 @@
-![Github trophies](https://github-profile-trophy.vercel.app/?username=JamesDBartlett3&margin-w=15&margin-h=15&theme=dracula&title=MultiLanguage,Issues,Repositories,Stars,Commits,Followers,PullRequest,Experience)
+![Github trophies](https://trophygh.kolioaris.xyz/?username=JamesDBartlett3&margin-w=15&margin-h=15&theme=dracula&title=MultiLanguage,Issues,Repositories,Stars,Commits,Followers,PullRequest,Experience)
 # Intro
 Hi, my name is James D. Bartlett III (@JamesDBartlett3 on [GitHub](https://github.com/JamesDBartlett3), [Sessionize](https://sessionize.com/JamesDBartlett3), [Mastodon](https://techhub.social/@JamesDBartlett3), [Bluesky](https://bsky.app/profile/jamesdbartlett3.bsky.social), and [LinkedIn](https://linkedin.com/in/jamesdbartlett3)), my pronouns are He/Him/His, and I'm a Principal Consultant at [P3 Adaptive](https://p3adaptive.com/).  
   
